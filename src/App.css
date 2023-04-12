@@ -1,0 +1,51 @@
+.box {
+  border: solid rgb(0, 95, 124);
+  border-radius: 0.5rem;
+}
+.primary_btn {
+  background-color: rgb(0, 95, 124);
+  color: white;
+  border-radius: 4px;
+  border: none;
+  height: 2.5rem;
+  width: 6rem;
+}
+.heading {
+  text-align: center;
+  color: rgb(0, 95, 124);
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+.mb {
+  margin-bottom: 1rem;
+}
+.link {
+  color: black;
+}
+
+.pagination_btn {
+  background-color: black;
+  color: white;
+  border: 2px;
+  border-radius: 2px;
+  padding: 4px 8px;
+}
+
+.page_num_btn {
+  color: black;
+  border: 2px;
+  border-radius: 2px;
+  padding: 2px 4px;
+}
+.page_num_btn_actv {
+  background-color: rgb(48, 139, 236);
+  color: white;
+}
+
+.info {
+  color: rgb(2, 2, 0);
+  font-size: 14px;
+}
+.form-error {
+  color: red;
+}
